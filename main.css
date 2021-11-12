@@ -205,7 +205,7 @@ head {
 }
 /* ------------------------------------------------- */
 .lannding-page {
-  background-image: url(/img/landing.jpg);
+  background-image: url(img/landing.jpg);
   background-size: cover;
   height: calc(100vh - 62px);
   position: relative;
